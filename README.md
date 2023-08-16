@@ -84,7 +84,7 @@ To understand how to use this project, please watch the video demonstration:
 
 ## Contact
 
-If you have any questions or suggestions regarding the "WANDERLUST" travel website, feel free to reach out to me:
+If you have any questions or suggestions feel free to reach out to me:
 
 - Linkedein: https://www.linkedin.com/in/siddhi-dorage-a785701b2/
 - GitHub: https://github.com/DorageSid
